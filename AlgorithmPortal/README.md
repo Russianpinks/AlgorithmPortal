@@ -108,4 +108,7 @@ Deployment Link:-
 https://vercel.com/russianpinks-projects/algorithm-portal/settings
 
 Deployment Video:-
+https://youtu.be/8CkKUFAqfh8?si=XUDUGGe3pODAoJfu
 
+Author :-
+Yash Patel
